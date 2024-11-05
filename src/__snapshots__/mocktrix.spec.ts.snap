@@ -1,0 +1,11 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mocktrix 1`] = `
+[
+  {
+    "age": [Function: GeneratorFunction],
+    "name": "John Doe",
+    "sex": [Function: GeneratorFunction],
+  },
+]
+`;
